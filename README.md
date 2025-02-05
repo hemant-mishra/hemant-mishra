@@ -2,7 +2,7 @@ I have completed my M.Tech at IIT Kharagpur, where I developed a strong enthusia
 Machine Learning Skills:
 Proficient in Random Forest, GBDT, Adaboost, Decision Trees, SVM, Logistic Regression, Linear Regression, Naive Bayes, and various unsupervised techniques.
 Analytical & Forecasting Techniques:
-Skilled in Python, C++, Numpy, Pandas, Decomposition, Matplotlib, Seaborn, MySQL, Power BI, and statistical analysis.
+Skilled in Python, JAVA, Numpy, Pandas, Decomposition, Matplotlib, Seaborn, MySQL, Power BI, and statistical analysis.
 Natural Language Processing:
 Experienced in Bag of Words, Tf-Idf, Word2Vec, Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM), and Sequence2Sequence models.
 <!---
